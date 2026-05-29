@@ -1,0 +1,10 @@
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\bin\Debug\PayrollTesting.exe.config
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\bin\Debug\PayrollTesting.exe
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\bin\Debug\PayrollTesting.pdb
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.csproj.AssemblyReference.cache
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.Form1.resources
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.Properties.Resources.resources
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.csproj.GenerateResource.cache
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.csproj.CoreCompileInputs.cache
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.exe
+C:\Users\carbo\source\repos\PayrollTesting\PayrollTesting\obj\Debug\PayrollTesting.pdb
